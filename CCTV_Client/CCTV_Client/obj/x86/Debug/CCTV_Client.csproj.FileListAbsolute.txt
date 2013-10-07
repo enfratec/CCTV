@@ -1,0 +1,14 @@
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\bin\Debug\CCTV_Client.exe
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\bin\Debug\CCTV_Client.pdb
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\obj\x86\Debug\CCTV_Client.Properties.Resources.resources
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\obj\x86\Debug\CCTV_Client.exe
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\obj\x86\Debug\CCTV_Client.pdb
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\bin\Debug\Emgu.CV.pdb
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\bin\Debug\Emgu.CV.GPU.pdb
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\bin\Debug\Emgu.CV.OCR.pdb
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\bin\Debug\Emgu.Util.pdb
+C:\Users\Mariusz\Desktop\CCTV_Client\CCTV_Client\obj\x86\Debug\CCTV_Client.CCTVClient.resources
